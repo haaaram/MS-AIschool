@@ -1,1 +1,1 @@
-# MSschool
+# MS-AIschool
